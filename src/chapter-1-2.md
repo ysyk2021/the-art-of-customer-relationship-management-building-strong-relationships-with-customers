@@ -1,5 +1,4 @@
-Chapter 1: Introduction to Customer Relationship Management (CRM): Historical Perspectives on CRM Theory and Practice
-=====================================================================================================================
+# Historical Perspectives on CRM Theory and Practice
 
 Customer relationship management (CRM) is a relatively new concept that has evolved over the past few decades. In this chapter, we'll explore the historical perspectives on CRM theory and practice.
 

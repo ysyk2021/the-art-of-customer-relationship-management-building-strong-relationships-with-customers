@@ -1,5 +1,4 @@
-Chapter 3: Developing a CRM Strategy: Assessing Your Own CRM Needs and Goals
-============================================================================
+# Assessing Your Own CRM Needs and Goals
 
 Developing an effective CRM strategy requires a thorough assessment of your own business needs and goals. In this chapter, we'll explore ways to assess your own CRM needs and goals.
 

@@ -1,5 +1,4 @@
-Chapter 4: Building Effective Communication and Listening Skills: Using Feedback to Improve Communication and Build Stronger Relationships
-==========================================================================================================================================
+# Using Feedback to Improve Communication and Build Stronger Relationships
 
 Feedback is a powerful tool for building effective communication and listening skills in customer relationship management. In this chapter, we'll explore how feedback can help improve your communication with customers and build stronger relationships.
 

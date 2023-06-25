@@ -1,5 +1,4 @@
-Chapter 2: Understanding the Psychology of Customer Relationships: Recognizing the Different Factors that Impact Customer Behavior and Loyalty
-==============================================================================================================================================
+# Recognizing the Different Factors that Impact Customer Behavior and Loyalty
 
 Building strong relationships with customers requires an understanding of the psychology behind customer behavior and loyalty. In this chapter, we'll explore the different factors that impact customer behavior and loyalty.
 

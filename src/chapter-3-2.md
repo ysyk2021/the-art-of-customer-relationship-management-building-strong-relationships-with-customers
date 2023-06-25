@@ -1,5 +1,4 @@
-Chapter 3: Developing a CRM Strategy: Creating a Plan for CRM Based on Shared Values and Priorities
-===================================================================================================
+# Creating a Plan for CRM Based on Shared Values and Priorities
 
 Developing a comprehensive CRM strategy is essential for building strong relationships with customers. In this chapter, we'll explore ways to create a plan for CRM based on shared values and priorities.
 

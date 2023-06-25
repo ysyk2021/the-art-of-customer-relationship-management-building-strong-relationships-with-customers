@@ -1,5 +1,4 @@
-Chapter 2: Understanding the Psychology of Customer Relationships: Identifying Common Barriers to Effective Customer Relationship Management
-============================================================================================================================================
+# Identifying Common Barriers to Effective Customer Relationship Management
 
 Effective customer relationship management requires an understanding of the common barriers that can hinder your efforts. In this chapter, we'll explore some of the most common barriers to effective customer relationship management.
 
