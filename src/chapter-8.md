@@ -42,5 +42,3 @@ Conclusion
 ----------
 
 Measuring and evaluating CRM performance is essential for ensuring the success of your overall strategy. By setting metrics and benchmarks, conducting regular evaluations and feedback sessions, and making data-driven decisions about CRM strategies and initiatives, companies can improve their performance and build stronger relationships with their customers.
-
-In the following chapters, we will explore additional tools and techniques for improving CRM using data analytics and artificial intelligence, as well as tips for developing a sustainable and customer-centric approach to CRM.
