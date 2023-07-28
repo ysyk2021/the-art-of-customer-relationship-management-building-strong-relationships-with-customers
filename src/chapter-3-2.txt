@@ -1,1 +1,0 @@
-for the book "the art of customer relationship management building strong relationships with customers", write a chapter: "creating a plan for crm based on shared values and priorities".  Use Markdown format. Use English.

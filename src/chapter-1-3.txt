@@ -1,1 +1,0 @@
-for the book "the art of customer relationship management building strong relationships with customers", write a chapter: "the challenges and opportunities of building strong relationships with customers".  Use Markdown format. Use English.

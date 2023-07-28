@@ -1,1 +1,0 @@
-for the book "the art of customer relationship management building strong relationships with customers", write a chapter: "developing strategies for managing customer relationships across multiple channels".  Use Markdown format. Use English.

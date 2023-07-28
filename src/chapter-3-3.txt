@@ -1,1 +1,0 @@
-for the book "the art of customer relationship management building strong relationships with customers", write a chapter: "tailoring your approach to different types of customers and industries".  Use Markdown format. Use English.
