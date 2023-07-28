@@ -1,6 +1,5 @@
 # Summary
 
-- [Introduction](README.md)
 - [Chapter 1: Introduction to Customer Relationship Management (CRM)](README.md)
   - [Defining CRM and its importance in business](chapter-1-1.md)
   - [Historical perspectives on CRM theory and practice](chapter-1-2.md)
