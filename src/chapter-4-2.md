@@ -1,5 +1,3 @@
-Practicing Active Listening Skills
-=============================================
 
 Active listening is a fundamental skill in building strong relationships with customers. This chapter explores the art of active listening and provides practical strategies for practicing this skill effectively.
 

@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating CRM Performance
-===================================================
 
 Measuring and evaluating CRM performance is essential for identifying areas of improvement and ensuring the success of your overall strategy. In this chapter, we will explore how to set metrics and benchmarks for successful CRM performance, conduct regular evaluations and feedback sessions, and make data-driven decisions about CRM strategies and initiatives.
 

@@ -1,5 +1,3 @@
-Using Feedback to Improve Communication and Build Stronger Relationships
-===================================================================================
 
 Feedback from customers is a valuable resource that can be harnessed to enhance communication strategies and foster stronger relationships. This chapter explores the importance of soliciting and utilizing customer feedback, and provides actionable insights on leveraging feedback to continuously improve communication efforts.
 

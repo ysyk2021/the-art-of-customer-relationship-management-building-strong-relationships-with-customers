@@ -1,5 +1,3 @@
-Historical Perspectives on CRM Theory and Practice
-=============================================================
 
 In this chapter, we will delve into the historical development of Customer Relationship Management (CRM) theory and practice. Understanding the evolution of CRM provides valuable insights into its current state and helps us appreciate its significance in building strong relationships with customers.
 

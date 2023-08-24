@@ -1,5 +1,3 @@
-Setting Metrics and Benchmarks for Successful CRM Performance
-========================================================================
 
 In this chapter, we will explore the importance of setting metrics and benchmarks for measuring and evaluating the performance of Customer Relationship Management (CRM) initiatives. By establishing clear and relevant metrics, organizations can gauge the effectiveness of their CRM strategies, identify areas for improvement, and drive continuous growth.
 
