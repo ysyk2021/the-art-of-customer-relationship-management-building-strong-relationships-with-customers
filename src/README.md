@@ -8,3 +8,7 @@ The Art of Customer Relationship Management: Building Strong Relationships with 
 This book is an essential resource for businesses looking to improve their CRM efforts and build strong relationships with customers. It offers practical advice and best practices for developing effective CRM skills and strategies, and emphasizes the importance of customer-centricity in all CRM efforts. With this book, businesses can learn how to leverage the power of CRM to achieve long-term success and growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
